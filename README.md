@@ -3,7 +3,7 @@
 # Getting Started
 
 ```sh
-$ git clone https://github.com/Nicolas-2580/DjangoVueproject.git
+$ git clone https://github.com/developer7132/DjangoVueproject.git
 $ cd DjangoVueproject/
 $ virtualenv --python=`which python3` venv
 $ source venv/bin/activate
